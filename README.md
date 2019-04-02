@@ -1,5 +1,5 @@
 Same js examples to practice !! :D
 
-Array Helpersa
+Array Helpers
 
 Map and Filter
