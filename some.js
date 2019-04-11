@@ -8,4 +8,5 @@ const prodProjects = projects.some(function (project){
 });
 
 
-console.log(prodProjects);
+
+console.dir(prodProjects);
