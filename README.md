@@ -1,7 +1,7 @@
 
-#JAVASCRIPT WORLD PRATICTE
+#JAVASCRIPT WORLD PRACTICE
 
-Same js examples to practice with real cases ? no way 
+Same JS examples to practice with real cases ? no way =D lol
 
 Array Helpers
 
@@ -9,4 +9,8 @@ Array Helpers
 
     Async/await
 
-    
+    Promisses
+
+    Intl.RelativeTimeFormat
+
+
